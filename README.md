@@ -16,3 +16,4 @@
 
 ### Day-1
 * [Quartiles](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-1/problem1.py)
+* [Interquartile Range](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-1/problem2.py)
