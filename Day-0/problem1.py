@@ -1,4 +1,4 @@
-# Day 0: Mean, Median, and Mode
+# Day 0: Weighted Mean
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
