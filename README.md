@@ -9,6 +9,7 @@
   * [Day-2](https://github.com/sanjusci/10-Days-of-Statistics#day-2)
   * [Day-3](https://github.com/sanjusci/10-Days-of-Statistics#day-3)
   * [Day-4](https://github.com/sanjusci/10-Days-of-Statistics#day-4)
+  * [Day-5](https://github.com/sanjusci/10-Days-of-Statistics#day-5)
 
 
 ## Topics
@@ -41,3 +42,6 @@
 * [Binomial Distribution II](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-4/problem2.py)
 * [Geometric Distribution I](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-4/problem3.py)
 * [Geometric Distribution II](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-4/problem4.py)
+
+### Day-5
+* [Poisson Distribution I](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem1.py)
