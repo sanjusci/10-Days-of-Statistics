@@ -45,3 +45,4 @@
 
 ### Day-5
 * [Poisson Distribution I](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem1.py)
+* [Poisson Distribution II](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem2.py)
