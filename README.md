@@ -10,6 +10,7 @@
   * [Day-3](https://github.com/sanjusci/10-Days-of-Statistics#day-3)
   * [Day-4](https://github.com/sanjusci/10-Days-of-Statistics#day-4)
   * [Day-5](https://github.com/sanjusci/10-Days-of-Statistics#day-5)
+  * [Day-6](https://github.com/sanjusci/10-Days-of-Statistics#day-6)
 
 
 ## Topics
@@ -46,3 +47,10 @@
 ### Day-5
 * [Poisson Distribution I](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem1.py)
 * [Poisson Distribution II](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem2.py)
+* [Normal Distribution I](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem3.py)
+* [Normal Distribution II](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-5/problem4.py)
+
+### Day-6
+* [The Central Limit Theorem I](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-6/problem1.py)
+* [The Central Limit Theorem II](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-6/problem2.py)
+* [The Central Limit Theorem III](https://github.com/sanjusci/10-Days-of-Statistics/blob/master/Day-7/problem3.py)

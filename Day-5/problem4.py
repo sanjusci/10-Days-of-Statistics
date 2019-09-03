@@ -25,6 +25,6 @@ if __name__ == '__main__':
 
     a = round(100 - d5.normal_distribution_ii(std=std, mean=mean, x=h1), 2)
     b = round(100 - d5.normal_distribution_ii(std=std, mean=mean, x=h2), 2)
-    print("{:.3f}".format(a))
-    print("{:.3f}".format(b))
+    print("{:.2f}".format(a))
+    print("{:.2f}".format(b))
 
